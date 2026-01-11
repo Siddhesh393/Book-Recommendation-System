@@ -23,8 +23,7 @@ The goal of this project is to enhance book discovery and user engagement by rec
 
 ## 📂 Project Structure
 
----
-
+```text
 ├── data/
 │ └── (Raw and processed datasets)
 │
@@ -39,7 +38,7 @@ The goal of this project is to enhance book discovery and user engagement by rec
 ├── main.py # Application entry point
 └── README.md
 
-
+```
 ---
 
 ## 📊 Exploratory Data Analysis (EDA)
