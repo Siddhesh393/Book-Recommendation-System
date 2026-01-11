@@ -23,6 +23,8 @@ The goal of this project is to enhance book discovery and user engagement by rec
 
 ## 📂 Project Structure
 
+---
+
 ├── data/
 │ └── (Raw and processed datasets)
 │
