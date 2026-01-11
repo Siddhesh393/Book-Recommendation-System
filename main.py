@@ -209,7 +209,7 @@ def display_book_grid(recommendations, books_df):
 # ----------------------------------------------------------
 # 🚀 Streamlit UI
 # ----------------------------------------------------------
-st.title("📖 Hybrid Book Recommendation System")
+st.title("📖 Book Recommendation System")
 
 with st.spinner("Loading pre-trained models..."):
     (
